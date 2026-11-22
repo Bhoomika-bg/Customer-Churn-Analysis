@@ -9,3 +9,4 @@ pymysql
 streamlit
 joblib
 scipy
+altair
