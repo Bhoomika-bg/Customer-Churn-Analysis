@@ -1,0 +1,46 @@
+,0
+numeric__tenure,-1.1544336019645944
+categorical__Contract_Two year,-0.7755183646671727
+numeric__MonthlyCharges,-0.6761135548583325
+categorical__InternetService_DSL,-0.622465486155934
+categorical__DeviceProtection_No internet service,-0.2754029743749664
+categorical__OnlineBackup_No internet service,-0.2754029743749664
+categorical__OnlineSecurity_No internet service,-0.2754029743749664
+categorical__TechSupport_No internet service,-0.2754029743749664
+categorical__StreamingTV_No internet service,-0.2754029743749664
+categorical__InternetService_No,-0.2754029743749664
+categorical__StreamingMovies_No internet service,-0.2754029743749664
+categorical__PaperlessBilling_No,-0.2629050222520939
+categorical__MultipleLines_No,-0.2153191383188219
+categorical__Dependents_Yes,-0.210049335935652
+categorical__StreamingMovies_No,-0.18987729637863385
+categorical__StreamingTV_No,-0.17665080036291939
+categorical__PaymentMethod_Bank transfer (automatic),-0.16170404711719105
+categorical__PaymentMethod_Credit card (automatic),-0.1610011963121691
+categorical__OnlineSecurity_Yes,-0.11351529336203378
+categorical__gender_Female,-0.11070503491905526
+categorical__PaymentMethod_Mailed check,-0.10745802522786982
+categorical__PhoneService_No,-0.10741168857112157
+categorical__MultipleLines_No phone service,-0.10741168857112157
+categorical__Partner_No,-0.10411634071627664
+categorical__Partner_Yes,-0.08577150452400412
+categorical__PhoneService_Yes,-0.08247615666913871
+categorical__TechSupport_Yes,-0.08000407691829159
+categorical__gender_Male,-0.07918281032122632
+categorical__Contract_One year,-0.0720826666204123
+categorical__DeviceProtection_No,0.011324895075104735
+categorical__OnlineBackup_Yes,0.01700416523865212
+categorical__Dependents_No,0.020161490695378467
+numeric__SeniorCitizen,0.05692214983119267
+categorical__OnlineBackup_No,0.06851096389603421
+categorical__PaperlessBilling_Yes,0.07301717701181643
+categorical__DeviceProtection_Yes,0.07419023405957254
+categorical__MultipleLines_Yes,0.13284298164966418
+categorical__TechSupport_No,0.16551920605296766
+categorical__OnlineSecurity_No,0.19903042249670896
+categorical__PaymentMethod_Electronic check,0.24027542341695424
+categorical__StreamingTV_Yes,0.2621659294976062
+categorical__StreamingMovies_Yes,0.2753924255133136
+numeric__TotalCharges,0.4896980513087401
+categorical__Contract_Month-to-month,0.6577131860472994
+categorical__InternetService_Fiber optic,0.7079806152906247
